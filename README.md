@@ -2,7 +2,7 @@
 
 ## Descripción.
 
-Este es un juego simple desarrollado en *JavaScript* que permite ingresar los nombres de **5 amigos** y selecciona uno de manera aleatoria como tu **amigo secreto.**
+Este es un juego simple desarrollado en **JavaScript** que permite ingresar los nombres de **5 amigos** y selecciona uno de manera aleatoria como tu **amigo secreto.**
 Es ideal para organizar intercambios de regalos o pasar un rato divertido con amigos.
 
 
