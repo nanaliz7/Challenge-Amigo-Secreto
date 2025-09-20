@@ -29,8 +29,10 @@ Es ideal para organizar intercambios de regalos o pasar un rato divertido con am
 
 
 ## Autores.
-. Lizeth Romero / *nanaliz7* - Desarrollado en **JavaScrip**
-. **Alura Latam** - Base del proyecto, estructura en **THML** y **CSS**
+
+.  Lizeth Romero / *nanaliz7* - Desarrollado en **JavaScrip**
+
+.  **Alura Latam** - Base del proyecto, estructura en **THML** y **CSS**
 
 
 
