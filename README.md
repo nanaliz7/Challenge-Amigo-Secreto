@@ -35,4 +35,7 @@ Es ideal para organizar intercambios de regalos o pasar un rato divertido con am
 .  **Alura Latam** - Base del proyecto, estructura en **THML** y **CSS**
 
 
+## Prueba el juego aqui: https://nanaliz7.github.io/Challenge-Amigo-Secreto/
+
+
 
